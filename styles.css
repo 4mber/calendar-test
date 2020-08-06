@@ -7,6 +7,21 @@ h1, h2, h3, h4, h5, #calendarTitle {
 	font-weight: 700;
 }
 
+header {
+	height: 500px;
+	background-image: url('gradient.png');
+	text-align: center;
+}
+
+h1 {
+	color: #fff;
+}		
+
+#head-img {
+	width: 120px;
+	margin: auto;
+}
+
 iframe {
 	margin: 100px 10% 20px 10%;
 	width: 80%;
