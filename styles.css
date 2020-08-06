@@ -37,3 +37,7 @@ iframe {
 	margin: 50px 10% 100px 10%;
 	width: 80%;
 }
+
+.bold {
+	font-weight: 700;
+}
