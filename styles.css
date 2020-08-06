@@ -1,14 +1,14 @@
-body {
+body, .calendar-container {
 	font-family: 'Roboto', sans-serif;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, #calendarTitle {
 	font-family: 'Rubik', sans-serif;
 	font-weight: 700;
 }
 
 iframe {
-	margin: auto;
-	width: 70%;
+	margin: 100px 10% 100px 10%;
+	width: 80%;
 	height: 800px;
 }
