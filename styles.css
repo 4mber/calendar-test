@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, #calendarTitle {
 }
 
 header {
-	height: 470px;
+	height: 450px;
 	background-image: url('gradient.png');
 	background-size: cover;
 	background-position: center;
@@ -18,7 +18,7 @@ header {
 
 h1 {
 	color: #fff;
-	font-size: 3.5rem;
+	font-size: 3rem;
 	margin: 0;
 }		
 
