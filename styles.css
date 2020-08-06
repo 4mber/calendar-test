@@ -13,7 +13,6 @@ header {
 	background-image: url('gradient.png');
 	background-size: cover;
 	background-position: center;
-	text-align: center;
 }
 
 h1 {
@@ -40,4 +39,8 @@ iframe {
 
 .bold {
 	font-weight: 700;
+}
+
+head {
+	text-align: center;
 }
