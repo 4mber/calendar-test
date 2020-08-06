@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, #calendarTitle {
 }
 
 header {
-	height: 500px;
+	height: 400px;
 	background-image: url('gradient.png');
 	background-size: cover;
 	text-align: center;
@@ -33,6 +33,6 @@ iframe {
 }
 
 #key {
-	margin: 100px 50px 100px 50px;
+	margin: 50px 10% 100px 10%;
 	width: 80%;
 }
