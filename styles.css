@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, #calendarTitle {
 }
 
 iframe {
-	margin: 100px 10% 100px 10%;
+	margin: 100px 10% 20px 10%;
 	width: 80%;
 	height: 800px;
 }
